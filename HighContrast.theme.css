@@ -6,6 +6,8 @@
  * @source https://github.com/TheMineCommander/DiscordTerminalTheme
 */
 
+@import url('https://theminecommander.github.io/HighContrast.theme.css');
+
 .bg-1QIAus {
     background-color: black;
 }
