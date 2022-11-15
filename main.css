@@ -1,185 +1,68 @@
-.bg-1QIAus {
-    background-color: black;
-}
-
-.scroller-3X7KbA {
-    background-color: black;
-}
-
-.scrollerInner-2PPAp2 {
-    background-color: black;
-}
-
-.content-1jQy2l {
-    background-color: black;
-}
-.form-3gdLxP::before {
-    opacity: 0;
-}
-
-.container-ZMc96U.themed-Hp1KC_ {
-    background-color: black;
-}
-
-.mainContent-uDGa6R {
-    text-decoration: underline;
-}
-
-.children-3xh0VB:after {
-    opacity: 0;
-}
-
-.header-3OsQeK {
-    background: black;
-}
-
-.scroller-1ox3I2{
-    background: black;
-}
-
-.mainContent-20q_Hp:before {
-    background: black;
-}
-
-.container-YkUktl {
-    background-color: black;
-}
-
-.activityPanel-9icbyU {
-    background-color: black;
-}
-
-.app-2CXKsg button {
-    background-color: black;
-}
-
-.slateTextArea-27tjG0 {
-    background-color: black;
-}
-
-.members-3WRCEx {
-    background-color: black;
-}
-
-.member-48YF_l, .members-3WRCEx {
-    background-color: black;
-}
-
-.roleStyle-jQ7KI2 {
-    background-color: black;
-}
-
-.scrollableContainer-15eg7h {
-    background: black;
-}
-
-.searchBar-3TnChZ {
-    background-color: black;
-}
-
-.scroller-hE2gWq {
-    background-color: black;
-}
-
-.emptyCard-KDifrB {
-    background-color: black;
-}
-
-.peopleColumn-1wMU14 {
-    background-color: black;
-}
-
-.scroller-WSmht3 {
-    background-color: black;
-}
-
-.folder-241Joy {
-    background-color: black;
-}
-
-.expandedFolderBackground-1kSAf6 {
-    background-color: black;
-}
-
-.childWrapper-1j_1ub {
-    background-color: black;
-}
-
-.sidebarRegionScroller-FXiQOh {
-    background-color: black;
-}
-
-.contentColumnDefault-3eyv5o {
-    background-color: black;
-}
-
-.contentRegionShownSidebar-fHXkEg {
-    background-color: black;
-}
-
-.accountProfileCard-lbN7n- {
-    background-color: black;
-}
-
-.background-3d_SjE {
-    background-color: black;
-}
-
-.fieldList-in8WkP {
-    background-color: black;
-}
-
-.radioBar-3w9XY- {
-    background-color: black;
-}
-
-.formNotice-2nS8ey {
-    background-color: black;
-}
-
+/**
+ * @name High Contrast
+ * @author TheMineCommander#5367
+ * @version 1.1.0
+ * @description Theme to replicate the feeling of a terminal
+ * @source https://github.com/TheMineCommander/DiscordTerminalTheme
+*/
+.bg-1QIAus {background-color: black;}
+.scroller-3X7KbA {background-color: black;}
+.scrollerInner-2PPAp2 {background-color: black;}
+.content-1jQy2l {background-color: black;}
+.form-3gdLxP::before {opacity: 0;}
+.container-ZMc96U.themed-Hp1KC_ {background-color: black;}
+.mainContent-uDGa6R {text-decoration: underline;}
+.children-3xh0VB:after {opacity: 0;}
+.header-3OsQeK {background: black;}
+.scroller-1ox3I2{background: black;}
+.mainContent-20q_Hp:before {background: black;}
+.container-YkUktl {background-color: black;}
+.activityPanel-9icbyU {background-color: black;}
+.app-2CXKsg button {background-color: black;}
+.slateTextArea-27tjG0 {background-color: black;}
+.members-3WRCEx {background-color: black;}
+.member-48YF_l, .members-3WRCEx {background-color: black;}
+.roleStyle-jQ7KI2 {background-color: black;}
+.scrollableContainer-15eg7h {background: black;}
+.searchBar-3TnChZ {background-color: black;}
+.scroller-hE2gWq {background-color: black;}
+.emptyCard-KDifrB {background-color: black;}
+.peopleColumn-1wMU14 {background-color: black;}
+.scroller-WSmht3 {background-color: black;}
+.folder-241Joy {background-color: black;}
+.expandedFolderBackground-1kSAf6 {background-color: black;}
+.childWrapper-1j_1ub {background-color: black;}
+.sidebarRegionScroller-FXiQOh {background-color: black;}
+.contentColumnDefault-3eyv5o {background-color: black;}
+.contentRegionShownSidebar-fHXkEg {background-color: black;}
+.accountProfileCard-lbN7n- {background-color: black;}
+.background-3d_SjE {background-color: black;}
+.fieldList-in8WkP {background-color: black;}
+.radioBar-3w9XY- {background-color: black;}
+.formNotice-2nS8ey {background-color: black;}
 .connectContainer-1hylYM {background-color: black;}
-
 .connectionHeader-Ixbb1s {background-color: black;}
-
 .connectionOptionsWrapper-3aVWcp {background-color: black;}
-
 .card-2xlCYc {background-color: black;}
-
 .noItemsCard-2V85P5,.noItemsCard-5EOcCl {background-color: black;}
-
 .inputDefault-3FGxgL {background-color: black;}
-
 .dropsHelpText-1HyiYF {background-color: black;}
-
 .theme-dark .codeRedemptionRedirect-2hYMSQ {background-color: black;}
-
 .preview-QJ3OG3{background-color: black;}
-
 .preview-3k9WhO{background-color: black;}
-
 .previewMessage-2g_aBv {background-color: black;}
-
 .bd-search-wrapper, .bd-footer, .bd-description-wrap {background-color: black;}
-
 .header-1zd7se,  .container-3PVapX, .footer-31IekZ {background-color: black;}
-
 .content-2hZxGK {background-color: black;}
-
 .container-1zzFcN {background-color: black;}
-
 .grid-1aWVsE {background-color: black;}
-
 .scroller-2M3eAB, .perks-2IIbWQ {background-color: black;}
-
 .perkDescription-3e1T_w {visibility: hidden;}
 .perkDescription-3e1T_w:before {content: "Nothing";
 visibility: visible;}
 .shinyButton-2Q9MDB {visibility: hidden;}
-
 .scroller-1bVxF5 {background-color: black;}
-
 .button-3bklZh {background-color: black;}
-
 .customScroller-m1-jZn, .container-3EtAkD {background-color: black;}
 .stickyHeader-1Sunlx, .titleContainer-3fPic2 {background-color: black;}
 .header-JUTO-g {background-color: black;}
@@ -213,4 +96,26 @@ visibility: visible;}
 .userPopoutOverlayBackground-dKOOda {background-color: black;}
 .userProfileInnerThemedNonPremium-1gT-zY {background-color: black;}
 .buttonColor-XIRMbp {background-color: black;}
+.body-_QAKrE {background-color: black;}
+.background-3N0xBT {background-color: black;}
+.bigPerkCard-1uwmWV, .smallPerkCard-2sX_-- {background-color: black;}
+.perksModalContentWrapper-3RHugb {background-color: black;}
+.content-2a4AW9 {background-color: black;}
+.container-2qVG6q {background-color: black;}
+.container-JhuCwn, .collapsed-23aTv6 {background-color: black;}
+.cameraWrapper-3a7Ngv {background-color: black;}
+.backgroundOptionContent-2-UepH {background-color: black;}
+.theme-dark .notDetected-M3Ghh2 {background-color: black;}
+#bd-editor-controls {background-color: black;}
+.controls-section, .controls-left:after {font-size: 12px; color: white; content: 'Are you sure you want to edit this? It may conflict with the High Contrast theme.';}
+.bd-addon-list .bd-addon-header {background-color: black;}
+.attendeeCTA-2etnq5 {background-color: black;}
+.line-18uChy:before {color: white; content: '>';}
+.overflow-1wOqNV {color: white}
+.activityText-ev7Z1T {color: white}
+.mentioned-Tre-dv:before {background-color: white}
+.modeMuted-2T4MDZ .name-28HaxV:after {content: '[MUTED]';}
+.modeMuted-2T4MDZ .name-28HaxV {color: white}
+.modeMuted-2T4MDZ .icon-2W8DHg {color: #8e9297}
+.tileBaseContainer-2zuu3- {background-color: black;}
 /*Thanks for taking a look!*/
